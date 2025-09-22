@@ -1,4 +1,7 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm **Aaron Binu Mathews**
+<div align="center">
+  
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there, I'm Aaron Binu Mathews
+</div>
 
 <div align="center">
   
@@ -163,8 +166,8 @@ graph TD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-binu-mathews-a43222344)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aaron-BM)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronbinumathew@gmail.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-portfolio.com) -->
 
 </div>
 
@@ -174,26 +177,6 @@ graph TD
 - ☁️ **Cloud Deployment** Strategies
 - 🤖 **Automation** & Scripting
 - 💡 **System Design** & Scalability
-
----
-
-## 📝 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Django APIs: Best Practices](https://your-blog.com)
-- [Docker for Django Developers: A Complete Guide](https://your-blog.com)
-- [Optimizing Database Queries in Django](https://your-blog.com)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎯 **2024 Goals**
-
-- [ ] Contribute to **5+ major open source projects**
-- [ ] Master **AWS cloud services** for Django deployment
-- [ ] Build and deploy **3 production-ready applications**
-- [ ] Write **technical blogs** sharing knowledge
-- [ ] Achieve **1000+ LeetCode problems** solved
-- [ ] Learn **system design patterns** in depth
 
 ---
 
